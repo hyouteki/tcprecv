@@ -1,0 +1,83 @@
+Start testing: Sep 06 17:59 IST
+----------------------------------------------------------
+Unable to find executable: /media/sf_ubuntu_shared/cn/assignment2/tests/byte_stream_construction
+5/15 Testing: byte_stream_construction
+5/15 Test: byte_stream_construction
+Command: ""
+Directory: /media/sf_ubuntu_shared/cn/assignment2/tests
+"byte_stream_construction" start time: 
+Output:
+----------------------------------------------------------
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"byte_stream_construction" end time: Sep 06 17:59 IST
+"byte_stream_construction" time elapsed: 00:00:00
+----------------------------------------------------------
+
+Unable to find executable: /media/sf_ubuntu_shared/cn/assignment2/tests/byte_stream_one_write
+6/15 Testing: byte_stream_one_write
+6/15 Test: byte_stream_one_write
+Command: ""
+Directory: /media/sf_ubuntu_shared/cn/assignment2/tests
+"byte_stream_one_write" start time: 
+Output:
+----------------------------------------------------------
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"byte_stream_one_write" end time: Sep 06 17:59 IST
+"byte_stream_one_write" time elapsed: 00:00:00
+----------------------------------------------------------
+
+Unable to find executable: /media/sf_ubuntu_shared/cn/assignment2/tests/byte_stream_two_writes
+7/15 Testing: byte_stream_two_writes
+7/15 Test: byte_stream_two_writes
+Command: ""
+Directory: /media/sf_ubuntu_shared/cn/assignment2/tests
+"byte_stream_two_writes" start time: 
+Output:
+----------------------------------------------------------
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"byte_stream_two_writes" end time: Sep 06 17:59 IST
+"byte_stream_two_writes" time elapsed: 00:00:00
+----------------------------------------------------------
+
+Unable to find executable: /media/sf_ubuntu_shared/cn/assignment2/tests/byte_stream_capacity
+8/15 Testing: byte_stream_capacity
+8/15 Test: byte_stream_capacity
+Command: ""
+Directory: /media/sf_ubuntu_shared/cn/assignment2/tests
+"byte_stream_capacity" start time: 
+Output:
+----------------------------------------------------------
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"byte_stream_capacity" end time: Sep 06 17:59 IST
+"byte_stream_capacity" time elapsed: 00:00:00
+----------------------------------------------------------
+
+Unable to find executable: /media/sf_ubuntu_shared/cn/assignment2/tests/byte_stream_many_writes
+9/15 Testing: byte_stream_many_writes
+9/15 Test: byte_stream_many_writes
+Command: ""
+Directory: /media/sf_ubuntu_shared/cn/assignment2/tests
+"byte_stream_many_writes" start time: 
+Output:
+----------------------------------------------------------
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"byte_stream_many_writes" end time: Sep 06 17:59 IST
+"byte_stream_many_writes" time elapsed: 00:00:00
+----------------------------------------------------------
+
+End testing: Sep 06 17:59 IST

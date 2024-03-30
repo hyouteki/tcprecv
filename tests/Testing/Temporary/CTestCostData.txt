@@ -1,0 +1,11 @@
+byte_stream_construction 0 0
+byte_stream_one_write 0 0
+byte_stream_two_writes 0 0
+byte_stream_capacity 0 0
+byte_stream_many_writes 0 0
+---
+byte_stream_construction
+byte_stream_one_write
+byte_stream_two_writes
+byte_stream_capacity
+byte_stream_many_writes

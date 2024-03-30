@@ -1,0 +1,36 @@
+# CMake generated Testfile for 
+# Source directory: /media/sf_ubuntu_shared/cn/assignment2/tests
+# Build directory: /media/sf_ubuntu_shared/cn/assignment2/tests
+# 
+# This file includes the relevant testing commands required for 
+# testing this directory and lists subdirectories to be tested as well.
+add_test([=[wrapping_integers_cmp]=] "/media/sf_ubuntu_shared/cn/assignment2/tests/wrapping_integers_cmp")
+set_tests_properties([=[wrapping_integers_cmp]=] PROPERTIES  _BACKTRACE_TRIPLES "/media/sf_ubuntu_shared/cn/assignment2/tests/CMakeLists.txt;7;add_test;/media/sf_ubuntu_shared/cn/assignment2/tests/CMakeLists.txt;11;add_test_exec;/media/sf_ubuntu_shared/cn/assignment2/tests/CMakeLists.txt;0;")
+add_test([=[wrapping_integers_unwrap]=] "/media/sf_ubuntu_shared/cn/assignment2/tests/wrapping_integers_unwrap")
+set_tests_properties([=[wrapping_integers_unwrap]=] PROPERTIES  _BACKTRACE_TRIPLES "/media/sf_ubuntu_shared/cn/assignment2/tests/CMakeLists.txt;7;add_test;/media/sf_ubuntu_shared/cn/assignment2/tests/CMakeLists.txt;12;add_test_exec;/media/sf_ubuntu_shared/cn/assignment2/tests/CMakeLists.txt;0;")
+add_test([=[wrapping_integers_wrap]=] "/media/sf_ubuntu_shared/cn/assignment2/tests/wrapping_integers_wrap")
+set_tests_properties([=[wrapping_integers_wrap]=] PROPERTIES  _BACKTRACE_TRIPLES "/media/sf_ubuntu_shared/cn/assignment2/tests/CMakeLists.txt;7;add_test;/media/sf_ubuntu_shared/cn/assignment2/tests/CMakeLists.txt;13;add_test_exec;/media/sf_ubuntu_shared/cn/assignment2/tests/CMakeLists.txt;0;")
+add_test([=[wrapping_integers_roundtrip]=] "/media/sf_ubuntu_shared/cn/assignment2/tests/wrapping_integers_roundtrip")
+set_tests_properties([=[wrapping_integers_roundtrip]=] PROPERTIES  _BACKTRACE_TRIPLES "/media/sf_ubuntu_shared/cn/assignment2/tests/CMakeLists.txt;7;add_test;/media/sf_ubuntu_shared/cn/assignment2/tests/CMakeLists.txt;14;add_test_exec;/media/sf_ubuntu_shared/cn/assignment2/tests/CMakeLists.txt;0;")
+add_test([=[byte_stream_construction]=] "/media/sf_ubuntu_shared/cn/assignment2/tests/byte_stream_construction")
+set_tests_properties([=[byte_stream_construction]=] PROPERTIES  _BACKTRACE_TRIPLES "/media/sf_ubuntu_shared/cn/assignment2/tests/CMakeLists.txt;7;add_test;/media/sf_ubuntu_shared/cn/assignment2/tests/CMakeLists.txt;16;add_test_exec;/media/sf_ubuntu_shared/cn/assignment2/tests/CMakeLists.txt;0;")
+add_test([=[byte_stream_one_write]=] "/media/sf_ubuntu_shared/cn/assignment2/tests/byte_stream_one_write")
+set_tests_properties([=[byte_stream_one_write]=] PROPERTIES  _BACKTRACE_TRIPLES "/media/sf_ubuntu_shared/cn/assignment2/tests/CMakeLists.txt;7;add_test;/media/sf_ubuntu_shared/cn/assignment2/tests/CMakeLists.txt;17;add_test_exec;/media/sf_ubuntu_shared/cn/assignment2/tests/CMakeLists.txt;0;")
+add_test([=[byte_stream_two_writes]=] "/media/sf_ubuntu_shared/cn/assignment2/tests/byte_stream_two_writes")
+set_tests_properties([=[byte_stream_two_writes]=] PROPERTIES  _BACKTRACE_TRIPLES "/media/sf_ubuntu_shared/cn/assignment2/tests/CMakeLists.txt;7;add_test;/media/sf_ubuntu_shared/cn/assignment2/tests/CMakeLists.txt;18;add_test_exec;/media/sf_ubuntu_shared/cn/assignment2/tests/CMakeLists.txt;0;")
+add_test([=[byte_stream_capacity]=] "/media/sf_ubuntu_shared/cn/assignment2/tests/byte_stream_capacity")
+set_tests_properties([=[byte_stream_capacity]=] PROPERTIES  _BACKTRACE_TRIPLES "/media/sf_ubuntu_shared/cn/assignment2/tests/CMakeLists.txt;7;add_test;/media/sf_ubuntu_shared/cn/assignment2/tests/CMakeLists.txt;19;add_test_exec;/media/sf_ubuntu_shared/cn/assignment2/tests/CMakeLists.txt;0;")
+add_test([=[byte_stream_many_writes]=] "/media/sf_ubuntu_shared/cn/assignment2/tests/byte_stream_many_writes")
+set_tests_properties([=[byte_stream_many_writes]=] PROPERTIES  _BACKTRACE_TRIPLES "/media/sf_ubuntu_shared/cn/assignment2/tests/CMakeLists.txt;7;add_test;/media/sf_ubuntu_shared/cn/assignment2/tests/CMakeLists.txt;20;add_test_exec;/media/sf_ubuntu_shared/cn/assignment2/tests/CMakeLists.txt;0;")
+add_test([=[recv_connect]=] "/media/sf_ubuntu_shared/cn/assignment2/tests/recv_connect")
+set_tests_properties([=[recv_connect]=] PROPERTIES  _BACKTRACE_TRIPLES "/media/sf_ubuntu_shared/cn/assignment2/tests/CMakeLists.txt;7;add_test;/media/sf_ubuntu_shared/cn/assignment2/tests/CMakeLists.txt;22;add_test_exec;/media/sf_ubuntu_shared/cn/assignment2/tests/CMakeLists.txt;0;")
+add_test([=[recv_transmit]=] "/media/sf_ubuntu_shared/cn/assignment2/tests/recv_transmit")
+set_tests_properties([=[recv_transmit]=] PROPERTIES  _BACKTRACE_TRIPLES "/media/sf_ubuntu_shared/cn/assignment2/tests/CMakeLists.txt;7;add_test;/media/sf_ubuntu_shared/cn/assignment2/tests/CMakeLists.txt;23;add_test_exec;/media/sf_ubuntu_shared/cn/assignment2/tests/CMakeLists.txt;0;")
+add_test([=[recv_window]=] "/media/sf_ubuntu_shared/cn/assignment2/tests/recv_window")
+set_tests_properties([=[recv_window]=] PROPERTIES  _BACKTRACE_TRIPLES "/media/sf_ubuntu_shared/cn/assignment2/tests/CMakeLists.txt;7;add_test;/media/sf_ubuntu_shared/cn/assignment2/tests/CMakeLists.txt;24;add_test_exec;/media/sf_ubuntu_shared/cn/assignment2/tests/CMakeLists.txt;0;")
+add_test([=[recv_reorder]=] "/media/sf_ubuntu_shared/cn/assignment2/tests/recv_reorder")
+set_tests_properties([=[recv_reorder]=] PROPERTIES  _BACKTRACE_TRIPLES "/media/sf_ubuntu_shared/cn/assignment2/tests/CMakeLists.txt;7;add_test;/media/sf_ubuntu_shared/cn/assignment2/tests/CMakeLists.txt;25;add_test_exec;/media/sf_ubuntu_shared/cn/assignment2/tests/CMakeLists.txt;0;")
+add_test([=[recv_close]=] "/media/sf_ubuntu_shared/cn/assignment2/tests/recv_close")
+set_tests_properties([=[recv_close]=] PROPERTIES  _BACKTRACE_TRIPLES "/media/sf_ubuntu_shared/cn/assignment2/tests/CMakeLists.txt;7;add_test;/media/sf_ubuntu_shared/cn/assignment2/tests/CMakeLists.txt;26;add_test_exec;/media/sf_ubuntu_shared/cn/assignment2/tests/CMakeLists.txt;0;")
+add_test([=[recv_special]=] "/media/sf_ubuntu_shared/cn/assignment2/tests/recv_special")
+set_tests_properties([=[recv_special]=] PROPERTIES  _BACKTRACE_TRIPLES "/media/sf_ubuntu_shared/cn/assignment2/tests/CMakeLists.txt;7;add_test;/media/sf_ubuntu_shared/cn/assignment2/tests/CMakeLists.txt;27;add_test_exec;/media/sf_ubuntu_shared/cn/assignment2/tests/CMakeLists.txt;0;")
