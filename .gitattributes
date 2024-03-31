@@ -1,2 +1,2 @@
 special-vendored-path/* linguist-vendored
-*.o.d -linguist-vendored
+*.o.d linguist-vendored
