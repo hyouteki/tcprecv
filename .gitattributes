@@ -1,2 +1,2 @@
 * linguist-vendored
-!src/
+src/* linguist-vendored=false
